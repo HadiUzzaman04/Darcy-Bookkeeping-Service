@@ -53,4 +53,24 @@ class FrontendController extends BaseController
     {
         return view('layouts.page.allsoftware');
     }
+    public function myob()
+    {
+        return view('layouts.page.myob');
+    }
+    public function rackon()
+    {
+        return view('layouts.page.rackon');
+    }
+    public function xero()
+    {
+        return view('layouts.page.xero');
+    }
+    public function saasu()
+    {
+        return view('layouts.page.saasu');
+    }
+    public function quickbooksonline()
+    {
+        return view('layouts.page.quickbooksonline');
+    }
 }

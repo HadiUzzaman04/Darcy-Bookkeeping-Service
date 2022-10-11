@@ -26,4 +26,9 @@ Route::prefix('website')->group(function() {
     Route::get('/contactus','ContactusController@contactus')->name('contactus');
     Route::get('/testimonial','FrontendController@testimonial')->name('testimonial');
     Route::get('/all-software','FrontendController@allsoftware')->name('allsoftware');
+    Route::get('/myob','FrontendController@myob')->name('myob');
+    Route::get('/rackon','FrontendController@rackon')->name('rackon');
+    Route::get('/xero','FrontendController@xero')->name('xero');
+    Route::get('/saasu','FrontendController@saasu')->name('saasu');
+    Route::get('/quick-books-online','FrontendController@quickbooksonline')->name('quickbooks');
 });

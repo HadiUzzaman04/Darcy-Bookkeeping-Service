@@ -10,7 +10,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home
+                        <a class="nav-link" href="{{route('home')}}">Home
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
@@ -32,11 +32,11 @@
 
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="{{route('allsoftware')}}">All Software</a>
-                            <a class="dropdown-item" href="team.html">Myob</a>
-                            <a class="dropdown-item" href="testimonials.html">Reckon</a>
-                            <a class="dropdown-item" href="terms.html">Xero</a>
-                            <a class="dropdown-item" href="testimonials.html">Saasu</a>
-                            <a class="dropdown-item" href="terms.html">QuickBooks Online</a>
+                            <a class="dropdown-item" href="{{route('myob')}}">Myob</a>
+                            <a class="dropdown-item" href="{{route('rackon')}}">Reckon</a>
+                            <a class="dropdown-item" href="{{route('xero')}}">Xero</a>
+                            <a class="dropdown-item" href="{{route('saasu')}}">Saasu</a>
+                            <a class="dropdown-item" href="{{route('quickbooks')}}">QuickBooks Online</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">

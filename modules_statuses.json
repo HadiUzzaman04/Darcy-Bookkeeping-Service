@@ -23,5 +23,6 @@
     "Sale": true,
     "ProductDamage": true,
     "DamageProduct": true,
-    "Frontend": true
+    "Frontend": true,
+    "Backend": true
 }
