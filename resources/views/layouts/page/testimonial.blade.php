@@ -1,7 +1,7 @@
 @extends('layouts.master')
 @section('content')
 
-<div class="page-heading about-heading header-text" style="background-image: url(assets/images/heading-3-1920x500.jpg);">
+<div class="page-heading contact-heading header-text" style="background-image: url({{url('website/images/bannar.jpg')}});">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -12,7 +12,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="services section-background">
     <div class="container">
         <div class="row">

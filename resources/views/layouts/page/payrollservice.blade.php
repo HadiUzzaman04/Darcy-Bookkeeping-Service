@@ -1,7 +1,7 @@
 @extends('layouts.master')
 @section('content')
 
-<div class="page-heading about-heading header-text" style="background-image: url('website/images/heading-5-1920x500.jpg');">
+<div class="page-heading about-heading header-text" style="background-image: url({{url('website/images/bookkeeping.jpg')}});">
     <div class="container">
         <div class="row">
             <div class="col-md-12">

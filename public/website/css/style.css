@@ -294,12 +294,12 @@ header .navbar {
 .banner {
 	position: relative;
 	text-align: center;
-	padding-top: 80px;
+	padding-top: 0px;
 }
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/slider-image-1-1920x600.jpg);
+	background-image: url(../images/slider.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -307,7 +307,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/slider-image-2-1920x600.jpg);
+	background-image: url(../images/banner-finance.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;

@@ -9,7 +9,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="{{route('home')}}">Home
                             <span class="sr-only">(current)</span>
                         </a>
@@ -23,7 +23,6 @@
                             <a class="dropdown-item" href="{{route('virtual.cfo')}}">Virtual CFO</a>
                             <a class="dropdown-item" href="{{route('bas.service')}}">Bas Services</a>
                             <a class="dropdown-item" href="{{route('catch.up.bookkeeping')}}">Catch Up Bppkkeeping</a>
-                            <a class="dropdown-item" href="terms.html">Bookkeeping Rates</a>
                         </div>
                     </li>
                     <li class="nav-item"><a class="nav-link" href="{{route('accounting')}}">Accounting</a></li>
