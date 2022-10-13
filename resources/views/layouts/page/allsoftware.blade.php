@@ -12,7 +12,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="team-members">
     <div class="container">
         <div class="row">

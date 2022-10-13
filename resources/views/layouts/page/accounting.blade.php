@@ -12,7 +12,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="products">
     <div class="container">
         <h3>LEARN WHY BUSINESSES ARE TURNING TO US FOR THEIR ACCOUNTING NEEDS</h3>
@@ -31,7 +31,7 @@
                 <div class="product-item">
                     <div class="down-content">
                         <h4>We Are Good At What We Do</h4>
-                        <p>You are in the hands of accounting and tax experts when you choose to engage us. We have a team of Accountants with many years experience spanning across a large number of industries with a proven track record. Our firm is also a registered tax agent business which provides you with an assurance that we meet the criteria required by the Tax Practitioners Board to provide our services.</p>
+                        <p>You are in the hands of accounting and tax experts when you choose to engage us. We have a team of Accountants with many years experience spanning across a large number of industries with a proven track record. Our firm is also a registered tax agent business which provides you with an assurance that we meet the criteria required by the Tax Practitioners Board.</p>
                     </div>
                 </div>
             </div>

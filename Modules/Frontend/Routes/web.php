@@ -23,7 +23,6 @@ Route::prefix('website')->group(function() {
     Route::get('/catch-up-bookkeeping','FrontendController@catchupbookkeeping')->name('catch.up.bookkeeping');
     Route::get('/accounting','FrontendController@accounting')->name('accounting');
     Route::get('/aboutus','FrontendController@aboutus')->name('aboutus');
-    Route::get('/contactus','ContactusController@contactus')->name('contactus');
     Route::get('/testimonial','FrontendController@testimonial')->name('testimonial');
     Route::get('/all-software','FrontendController@allsoftware')->name('allsoftware');
     Route::get('/myob','FrontendController@myob')->name('myob');
@@ -31,4 +30,8 @@ Route::prefix('website')->group(function() {
     Route::get('/xero','FrontendController@xero')->name('xero');
     Route::get('/saasu','FrontendController@saasu')->name('saasu');
     Route::get('/quick-books-online','FrontendController@quickbooksonline')->name('quickbooks');
+
+    //contact us
+    Route::get('/contactus','ContactusController@contactus')->name('contactus');
+    Route::post('contactus/store','ContactusController@create')->name('contactus.store');
 });

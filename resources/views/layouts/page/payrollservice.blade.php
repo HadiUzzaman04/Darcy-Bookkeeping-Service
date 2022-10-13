@@ -12,7 +12,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="team-members">
     <div class="container">
         <div class="row">
@@ -25,8 +25,10 @@
         </div>
     </div>
 </div>
+<br>
 
 <h4>How do we do it </h4>
+<br>
 
 <table class="table table-bordered table-dark">
   <thead>
@@ -65,7 +67,60 @@
   </tbody>
 </table>
 
+<div class="team-members">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h2>Case Study</h2>
+                </div>
+                <p>A client in the hospitality industry was manually processing 93 timesheets per fortnight across 4 different entities, this task took 2 days for their accounts team to process, they would encounter numerous errors every pay run due to the variances in fair work award rates and shift times. To fix this we setup a software that linked to their xero subscriptions which reduced this payroll processing down to 6 hours. This in turn removed all potential errors by using a digital sign on and off function of times worked by employees. The software also has an electronic software award tool built in to make sure pay rates are monitored and changed as the industry award was updated. Needless to say the client was extremely happy with the outcome we achieved.</p>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>For payroll service</h4>
+                            <p>Contact us or request a cllback from us</p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 text-right">
+                            <a href="{{route('contactus')}}" class="filled-button">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4>Other Bookkeeping Service we offer</h4>
+                            <a href="{{route('account.payable')}}" class="filled-button">Accounts Payable</a>
+                            <a href="{{route('accounts.recievable')}}" class="filled-button">Accounts Recivable</a>
+                            <a href="{{route('virtual.cfo')}}" class="filled-button">Virtual CFO</a>
+                            <a href="{{route('bas.service')}}" class="filled-button">BAS Service</a>
+                            <a href="{{route('catch.up.bookkeeping')}}" class="filled-button">Catch up Bookkeeping</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 
 
 @endsection

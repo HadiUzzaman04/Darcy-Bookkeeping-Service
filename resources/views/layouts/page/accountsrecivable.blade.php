@@ -6,13 +6,13 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text-content">
-                    <h2>Payroll Services</h2>
+                    <h2>Accounts Recivable</h2>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
+<br>
 <div class="team-members">
     <div class="container">
         <div class="row">
@@ -25,9 +25,9 @@
         </div>
     </div>
 </div>
-
+<br>
 <h4>How do we do it </h4>
-
+<br>
 <table class="table table-bordered table-dark">
   <thead>
     <tr>
@@ -65,6 +65,61 @@
   </tbody>
 </table>
 
+<div class="team-members">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h2>Case Study</h2>
+                </div>
+                <p>The client receives over 300 transactions per day through online sales and many different payment platforms that were not synced to their software. Their accounting software was incorrectly reconciled to the wrong invoice and payment methods for a year before we intervened.</p>
+                <p>Our bookkeeper was able to clean up this web of transactions to correctly show who had paid and what was outstanding. Once the clean-up was completed the integrations experts amended the synchronizing of the software platforms to feed into their bank accounts reducing the time required to reconcile daily transactions, remove the opportunity for errors, give a clear view on outstanding invoices, and introduced processes to monitor debtors which resulted in maintaining steady cashflow for business operations and increasing their profit.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>For Accounts Recivable service</h4>
+                            <p>Contact us or request a cllback from us</p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 text-right">
+                            <a href="{{route('contactus')}}" class="filled-button">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4>Other Bookkeeping Service we offer</h4>
+                            <a href="{{route('payroll.service')}}" class="filled-button">Payroll Service</a>
+                            <a href="{{route('account.payable')}}" class="filled-button">Accounts Payable</a>
+                            <a href="{{route('virtual.cfo')}}" class="filled-button">Virtual CFO</a>
+                            <a href="{{route('bas.service')}}" class="filled-button">BAS Service</a>
+                            <a href="{{route('catch.up.bookkeeping')}}" class="filled-button">Catch up Bookkeeping</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 
 
 

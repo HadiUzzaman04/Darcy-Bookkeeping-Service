@@ -6,13 +6,13 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text-content">
-                    <h2>Payroll Services</h2>
+                    <h2>Virtual CFO</h2>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
+<br>
 <div class="team-members">
     <div class="container">
         <div class="row">
@@ -25,9 +25,9 @@
         </div>
     </div>
 </div>
-
+<br>
 <h4>How do we do it </h4>
-
+<br>
 <table class="table table-bordered table-dark">
   <thead>
     <tr>
@@ -60,7 +60,60 @@
   </tbody>
 </table>
 
+<div class="team-members">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h2>Case Study</h2>
+                </div>
+                <p>When our client came to us they were very good at working hard, providing a service for their customers but was trying to navigate a tricky period involving the growth of the business and difficult market conditions. Our virtual CFO was able to come into the business and take charge of the finances with immediate impact. Since engaging Darcy Bookkeeping our client has grown in many ways including the introduction of effective financial reporting, improved processes and operations, reduced overheads and debt while increasing profits.</p>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>For Virtual CFO service</h4>
+                            <p>Contact us or request a cllback from us</p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 text-right">
+                            <a href="{{route('contactus')}}" class="filled-button">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4>Other Bookkeeping Service we offer</h4>
+                            <a href="{{route('payroll.service')}}" class="filled-button">Payroll Service</a>
+                            <a href="{{route('account.payable')}}" class="filled-button">Accounts Payable</a>
+                            <a href="{{route('accounts.recievable')}}" class="filled-button">Accounts Recivable</a>
+                            <a href="{{route('bas.service')}}" class="filled-button">BAS Service</a>
+                            <a href="{{route('catch.up.bookkeeping')}}" class="filled-button">Catch up Bookkeeping</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 
 
 @endsection

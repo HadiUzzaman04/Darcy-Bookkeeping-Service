@@ -6,13 +6,13 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text-content">
-                    <h2>Payroll Services</h2>
+                    <h2>Accounts Payable</h2>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
+<br>
 <div class="team-members">
     <div class="container">
         <div class="row">
@@ -25,9 +25,9 @@
         </div>
     </div>
 </div>
-
+<br>
 <h4>How do we do it </h4>
-
+<br>
 <table class="table table-bordered table-dark">
   <thead>
     <tr>
@@ -65,6 +65,60 @@
   </tbody>
 </table>
 
+<div class="team-members">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h2>Case Study</h2>
+                </div>
+                <p>Our client in the solar and electrical installation industry, like most businesses, has been affected by Covid and the ever-changing building industry over the last few years. The previous bookkeeper was making multiple errors in their accounting software which resulted in over and under payments to many suppliers. This affected delivery of their required materials to continue work. Our bookkeeper was able to correct the software settings to locate these errors, review and contact all suppliers reconcile the accounts to the correct information, negotiate payment plans and remove debts quickly to maintain supply and the business operational during this time. The business owner is now able to accurately view their accounts payable information on a weekly basis, maintain cashflow and track their due dates.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>For Accounts Payable service</h4>
+                            <p>Contact us or request a cllback from us</p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 text-right">
+                            <a href="{{route('contactus')}}" class="filled-button">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inner-content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4>Other Bookkeeping Service we offer</h4>
+                            <a href="{{route('payroll.service')}}" class="filled-button">Payroll Service</a>
+                            <a href="{{route('accounts.recievable')}}" class="filled-button">Accounts Recivable</a>
+                            <a href="{{route('virtual.cfo')}}" class="filled-button">Virtual CFO</a>
+                            <a href="{{route('bas.service')}}" class="filled-button">BAS Service</a>
+                            <a href="{{route('catch.up.bookkeeping')}}" class="filled-button">Catch up Bookkeeping</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 
 
 

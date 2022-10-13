@@ -4,20 +4,19 @@
     <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
             <div class="text-content">
-                <h4>Find your car today!</h4>
-                <h2>Lorem ipsum dolor sit amet</h2>
+                <h4>Find the best bookkeepers under one roof</h4>
+                <a href="{{route('contactus')}}" class="filled-button">Give us a message</a>
             </div>
         </div>
         <div class="banner-item-02">
             <div class="text-content">
-                <h4>Fugiat Aspernatur</h4>
-                <h2>Laboriosam reprehenderit ducimus</h2>
+                <h4>To know more about us</h4>
+                <a href="{{route('aboutus')}}" class="filled-button">About us</a>
             </div>
         </div>
         <div class="banner-item-03">
             <div class="text-content">
-                <h4>Saepe Omnis</h4>
-                <h2>Quaerat suscipit unde minus dicta</h2>
+                <h4>Find the best bookkeepers under one roof</h4>
             </div>
         </div>
     </div>
@@ -134,7 +133,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="products">
     <div class="container">
         <div class="row">
@@ -210,7 +209,7 @@
                 <div class="section-heading">
                     <h2>Happy Clients</h2>
 
-                    <a href="testimonials.html">read more <i class="fa fa-angle-right"></i></a>
+                    <a href="{{route('testimonial')}}">View More <i class="fa fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="col-md-12">

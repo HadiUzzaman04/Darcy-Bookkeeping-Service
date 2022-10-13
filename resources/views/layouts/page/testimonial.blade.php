@@ -13,6 +13,18 @@
     </div>
 </div>
 <br>
+<div class="team-members">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h2>Testimonials of our clients</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 <div class="services section-background">
     <div class="container">
         <div class="row">
@@ -74,5 +86,5 @@
         </div>
     </div>
 </div>
-
+<br>
 @endsection
