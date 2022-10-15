@@ -26,7 +26,7 @@
 <div class="products">
     <div class="container">
         <h3>WHY CHOOSE US</h3>
-        <p>Here are some of the reasons why local Australian businesses are rushing to use our expert bookkeeping services:</p>
+        <p>Here are some of the reasons why local businesses are rushing to use our expert bookkeeping services:</p>
         <br>
         <div class="row">
             <div class="col-md-4">
@@ -126,9 +126,9 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-heading">
-                    <h2>MYOB Bookkeeping Services</h2>
+                    <h2>Why Choose Us</h2>
                 </div>
-                <p>If you need a MYOB bookkeeper, we can help. No matter how big or small the MYOB requirement is, speak to us and see how we can help.</p>
+                <p>Here are some of the reasons why local businesses are rushing to use our expert bookkeeping services:</p>
             </div>
         </div>
     </div>

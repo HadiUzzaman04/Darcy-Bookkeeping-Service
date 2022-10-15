@@ -12,6 +12,9 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+    Route::get('/', function () {
+    return redirect()->route('home');
+    });
 
 Route::prefix('website')->group(function() {
     Route::get('/home', 'FrontendController@index')->name('home');
