@@ -61,7 +61,7 @@
                         <h4>LOCATIONS WE SERVICE</h4>
                         <p>Our bookkeepers can come to you. We provide a face to face service in Brisbane, Sunshine Coast, Gold Coast, Adelaide, Perth and Newcastle.</p>
                         <span>
-                            <a href="#" data-toggle="modal" data-target="#exampleModal3">Book Now</a>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal3">Read More</a>
                         </span>
                     </div>
                 </div>

@@ -107,7 +107,7 @@
             </div>
             <div class="col-md-6">
                 <div class="left-content">
-                    <p>We are one of the fastest growing bookkeeping and accounting services firms in Australia.</p>
+                    <p>We are one of the fastest growing bookkeeping and accounting services firms in Saskatoon.</p>
                     <p>Why are we growing so quickly? Because we provide a top quality service at affordable service rates that make our services sustainable for small and medium businesses.</p>
                     <a href="{{route('aboutus')}}" class="filled-button">Read More</a>
                 </div>

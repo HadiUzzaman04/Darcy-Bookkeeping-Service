@@ -11,9 +11,9 @@
                         <h4>Contact Info</h4>
                     </div>
                     <address>
-                        <p>Address- 10 Main St, Marshall, SK SOM 1RO</p>
-                        <p>Phone- +13063876266</p>
-                        <p>info@darcybookkeeping.com</p>
+                        <p>Address- 2A-3603 Kochar Ave Saskatoon SKS7P 0B8</p>
+                        <p>Phone- 639-525-0585</p>
+                        <p>info@darcybookkeepingaccountingservice.com</p>
                     </address>
                 </div>
             </div>
@@ -25,7 +25,6 @@
                             <li><a href="{{route('home')}}"></i>Home</a></li>
                             <li><a href="{{route('payroll.service')}}"></i>Bookkeeping</a></li>
                             <li><a href="{{route('accounting')}}"></i>Accounting</a></li>
-                            <li><a href="{{route('allsoftware')}}"></i>Software</a></li>
                             <li><a href="{{route('aboutus')}}"></i>About Us</a></li>
                             <li><a href="{{route('contactus')}}"></i>Contact Us</a></li>
                         </ul>
@@ -47,9 +46,9 @@
                             <h4>Contact Info</h4>
                         </div>
                         <address>
-                            <p>Address- 10 Main St, Marshall, SK SOM 1RO</p>
-                            <p>Phone- +13063876266</p>
-                            <p><a href="mailto:contact@company.com">info@darcybookkeeping.com</a></p>
+                            <p>Address- 2A-3603 Kochar Ave Saskatoon SKS7P 0B8</p>
+                            <p>Phone- 639-525-0585</p>
+                             <p>info@darcybookkeepingaccountingservice.com</p>
                         </address>
                     </div>
                 </div>
@@ -61,7 +60,6 @@
                                 <li><a href="{{route('home')}}"></i>Home</a></li>
                                 <li><a href="{{route('payroll.service')}}"></i>Bookkeeping</a></li>
                                 <li><a href="{{route('accounting')}}"></i>Accounting</a></li>
-                                <li><a href="{{route('allsoftware')}}"></i>Software</a></li>
                                 <li><a href="{{route('aboutus')}}"></i>About Us</a></li>
                                 <li><a href="{{route('contactus')}}"></i>Contact Us</a></li>
                             </ul>

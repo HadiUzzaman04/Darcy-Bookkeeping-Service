@@ -26,9 +26,11 @@
     </div>
 </div>
 <br>
+<div style="margin-left: 20px;">
 <h4>How do we do it </h4>
+</div>
 <br>
-<table class="table table-bordered table-dark">
+<table class="table table-bordered table-dark" style="width:98%; margin-left: 10px; ">
   <thead>
     <tr>
       <th scope="col">Service</th>

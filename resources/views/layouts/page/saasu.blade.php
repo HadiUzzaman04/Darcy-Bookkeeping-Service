@@ -61,7 +61,7 @@
                         <h4>LOCATIONS WE SERVICE</h4>
                         <p>Our Saasu bookkeepers can come to you in Brisbane, Sunshine Coast, Gold Coast, Adelaide and Perth Or let us do your books online at our office.</p>
                         <span>
-                            <a href="#" data-toggle="modal" data-target="#exampleModal3">Book Now</a>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal3">Read More</a>
                         </span>
                     </div>
                 </div>
