@@ -61,7 +61,7 @@
                         <h4>LOCATIONS WE SERVICE</h4>
                         <p>Local face to face MYOB Bookkeeping in Brisbane, Gold Coast, Sunshine Coast, Adelaide, Perth and Newcastle. We also provide an Australia wide online service.</p>
                         <span>
-                            <a href="#" data-toggle="modal" data-target="#exampleModal3">Book Now</a>
+                            <a href="#" data-toggle="modal" data-target="#exampleModal3">Read More</a>
                         </span>
                     </div>
                 </div>

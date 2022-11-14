@@ -26,9 +26,9 @@
             <div class="col-md-6">
                 <div class="left-content">
                     <h4>About Our Company</h4>
-                    <p>We are one of the fastest growing bookkeeping and accounting services firms in Australia.</p>
+                    <p>We are one of the fastest growing bookkeeping and accounting services firms in Saskatoon.</p>
                     <p>Why are we growing so quickly? Because we provide a top quality service at affordable service rates that make our services sustainable for small and medium businesses.</p>
-                    <p>We aim to make our services sustainable as we understand the needs and challenges for businesses in Brisbane, Adelaide, Perth, Sunshine Coast, Gold Coast and Newcastle.</p>
+                    <p>We aim to make our services sustainable as we understand the needs and challenges for businesses in Saskatoon.</p>
                     <p>Our qualified and experienced Bookkeepers and Accountants take great pleasure in helping our clients to meet their obligations and get ahead of the competition in their industry.</p>
                 </div>
             </div>
