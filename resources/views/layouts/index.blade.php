@@ -48,16 +48,8 @@
             <div class="col-md-4">
                 <div class="product-item">
                     <div class="down-content">
-                        <h4>SATISFIED</h4>
-                        <p>Over 1000+ happy clients around Australia and still counting</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="product-item">
-                    <div class="down-content">
                         <h4>REPUTABLE</h4>
-                        <p>We have been in business for 10 years, improving our service to our clients each year</p>
+                        <p>We have been in business for 5 years, improving our service to our clients each year</p>
                     </div>
                 </div>
             </div>
@@ -194,7 +186,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/sixth.png')}}" alt="">
                     <div class="down-content">
                         <h4>OUR QUALIFIED BOOKKEEPERS</h4>
-                        <p>We take the greatest of care when choosing a bookkeeper to join the Darcy Bookkeeping team. All our bookkeepers must meet the minimum qualification and experience requirements to have the privilege of servicing our clients. We are always striving to achieve the best results we can for our clients and realise the strength of our business lies in the quality of our bookkeeping team. As such all our Bookkeepers must either be registered BAS Agents or qualified Accountants and this is one of the ways we can guarantee the quality of our services to our clients.</p>
+                        <p>We take the greatest of care when choosing a bookkeeper to join the Darcy Bookkeeping team. All our bookkeepers must meet the minimum qualification and experience requirements to have the privilege of servicing our clients. We are always striving to achieve the best results we can for our clients and realise the strength of our business lies in the quality of our bookkeeping team.</p>
                     </div>
                 </div>
             </div>

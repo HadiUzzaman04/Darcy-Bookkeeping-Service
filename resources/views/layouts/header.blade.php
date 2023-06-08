@@ -22,7 +22,6 @@
                             <a class="dropdown-item" href="{{route('account.payable')}}">Accounts Payable</a>
                             <a class="dropdown-item" href="{{route('accounts.recievable')}}">Accounts Recivable</a>
                             <a class="dropdown-item" href="{{route('virtual.cfo')}}">Virtual CFO</a>
-                            <a class="dropdown-item" href="{{route('bas.service')}}">Bas Services</a>
                             <a class="dropdown-item" href="{{route('catch.up.bookkeeping')}}">Catch Up Bppkkeeping</a>
                         </div>
                     </li>
