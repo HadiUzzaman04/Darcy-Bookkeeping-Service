@@ -34,7 +34,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/first.png')}}" alt="">
                     <div class="down-content">
                         <h4>OUR RECKON SERVICES</h4>
-                        <p>No matter how big or small your Reckon bookkeeping need is - we can help. General bookkeeping, Payroll, BAS and more</p>
+                        <p>No matter how big or small your Reckon bookkeeping need is - we can help. General bookkeeping, Payroll, Accounting and more</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal1">Read More</a>
                         </span>
@@ -71,7 +71,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/forth.JPG')}}" alt="">
                     <div class="down-content">
                         <h4>BOOKKEEPING GUARANTEE</h4>
-                        <p>We are BAS Agents registered with the Tax Practitioners Board and all our services are supported by qualified Accountants.</p>
+                        <p>We are Accounting Agents registered with the Tax Practitioners Board and all our services are supported by qualified Accountants.</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal4">Read More</a>
                         </span>
@@ -96,7 +96,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/sixth.png')}}" alt="">
                     <div class="down-content">
                         <h4>OUR RECKON BOOKKEEPERS</h4>
-                        <p>Our Reckon bookkeepers are all Registered BAS Agents or qualified Accountants, with years of experience working with small businesses..</p>
+                        <p>Our Reckon bookkeepers are all Registered Accounting Agents or qualified Accountants, with years of experience working with small businesses..</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal6">Read More</a>
                         </span>
@@ -122,7 +122,7 @@
             <div class="modal-body">
                 <p>We offer our clients advanced software set up and regular bookkeeping and accounting services. We can tailor make our bookkeeping services to ensure your business is tax compliant and the regular functions of your business happen like clockwork with minimal effort and cost.</p>
                 <p>Some of our services include:</p>
-                <li>BAS and IAS</li>
+                <li>Accounting and IAS</li>
                 <li>General Bookkeeping</li>
                 <li>Data Entry</li>
                 <li>Accounting Software Set Up</li>
@@ -240,7 +240,7 @@
                 <p>At Darcy Bookkeeping & Business Services we employ only the best individuals to help you with your business needs. Each member of our staff is carefully selected to make sure they meet our strict criteria and guidelines. All of our bookkeepers have a similar profile to this</p>
                  <br>
                 <li>10 years+ in the bookkeeping and accounting profession</li>
-                <li>Either a Registered BAS agent or Accountant level professional</li>
+                <li>Either a Registered Accounting agent or Accountant level professional</li>
                 <li>Qualifications including either Degree, Diploma or Certificate IV in accounting</li>
                 <li>Certified consultant or experienced working with Reckon software</li>
                 <li>Extensive experience working with small and medium businesses</li>

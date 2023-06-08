@@ -62,7 +62,7 @@
     <tr>
       <td>GST</td>
       <td>Coding GST and reporting Business Activity Statements.</td>
-      <td>Good and Services Tax is calculated either inclusive or exclusive of your sale total and is owed to the ATO on your BAS reports. Our bookkeepers are experts in the field to make certain you are maintaining your lodgement compliance and reporting accurate data from your business.</td>
+      <td>Good and Services Tax is calculated either inclusive or exclusive of your sale total and is owed to the ATO on your Accounting reports. Our bookkeepers are experts in the field to make certain you are maintaining your lodgement compliance and reporting accurate data from your business.</td>
     </tr>
   </tbody>
 </table>
@@ -112,7 +112,6 @@
                             <a href="{{route('payroll.service')}}" class="filled-button">Payroll Service</a>
                             <a href="{{route('account.payable')}}" class="filled-button">Accounts Payable</a>
                             <a href="{{route('virtual.cfo')}}" class="filled-button">Virtual CFO</a>
-                            <a href="{{route('bas.service')}}" class="filled-button">BAS Service</a>
                             <a href="{{route('catch.up.bookkeeping')}}" class="filled-button">Catch up Bookkeeping</a>
                         </div>
                     </div>

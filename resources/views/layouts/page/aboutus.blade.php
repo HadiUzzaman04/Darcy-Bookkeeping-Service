@@ -88,7 +88,7 @@
                 <li>Save time and money</li>
                 <p>By handing over the responsibility to a professional, qualified bookkeeping service that specialises in ensuring your business finances and bookkeeping are in top shape. You save time by taking the responsibility off your hands and you also save money thanks to the efficiency of our experienced bookkeepers who will help improve the current processes and systems in place.</p>
                 <li>Meet Tax Office Obligations</li>
-                <p>Our qualified bookkeepers ensure that all Tax office deadlines are met monthly, quarterly and annually for BAS, Superannuation and taxation so you never fall behind.</p>
+                <p>Our qualified bookkeepers ensure that all Tax office deadlines are met monthly, quarterly and annually for Accounting, Superannuation and taxation so you never fall behind.</p>
                 <li>Get your finances and records in order</li>
                 <p>We are very experienced at helping businesses bring their bookkeeping, accounting and taxation affairs up to date. We have helped many local businesses across Brisbane, Gold Coast, Sunshine Coast, Adelaide, Perth and Newcastle to bring their lodgements up to date and manage existing tax debt whilst working with the tax office to reduce the pressure on our clients.</p>
                 <p>When relying on a professional bookkeeping service to take care of your bookkeeping and finances, make sure that you approach a company that you can trust. At Darcy Bookkeeping & Business Services, we have the qualified staff and positive client feedback you need to feel secure in choosing us for your bookkeeping needs.</p>

@@ -111,7 +111,6 @@
                             <a href="{{route('payroll.service')}}" class="filled-button">Payroll Service</a>
                             <a href="{{route('accounts.recievable')}}" class="filled-button">Accounts Recivable</a>
                             <a href="{{route('virtual.cfo')}}" class="filled-button">Virtual CFO</a>
-                            <a href="{{route('bas.service')}}" class="filled-button">BAS Service</a>
                             <a href="{{route('catch.up.bookkeeping')}}" class="filled-button">Catch up Bookkeeping</a>
                         </div>
                     </div>

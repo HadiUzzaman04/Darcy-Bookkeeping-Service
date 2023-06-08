@@ -71,7 +71,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/forth.JPG')}}" alt="">
                     <div class="down-content">
                         <h4>BOOKKEEPING GUARANTEE</h4>
-                        <p>Our MYOB bookkeepers are BAS agents and Accountants. All our bookkeeping services are supported by our qualified tax agents.</p>
+                        <p>Our MYOB bookkeepers are Accounting agents and Accountants. All our bookkeeping services are supported by our qualified tax agents.</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal4">Read More</a>
                         </span>
@@ -122,7 +122,7 @@
             <div class="modal-body">
                 <p>We have serviced clients in nearly every industry you can think of using MYOB accounting software. If you use MYOB and need a little help or a lot of help we can get you on track and keep you on track with our bookkeeping services.</p>
                 <p>Some of our regularly requested services include:</p>
-                <li>BAS and IAS</li>
+                <li>Accounting and IAS</li>
                 <li>General Bookkeeping</li>
                 <li>Data Entry</li>
                 <li>Accounting Software Set Up</li>
@@ -239,7 +239,7 @@
                 <p>Know that your books are looked after by a MYOB bookkeeping professional</p>
                 <p>We only pick the best of the best to join our team. The typical MYOB bookkeeper from Darcy Bookkeeping looks like this:</p>
                 <li>10 years plus accounting experience</li>
-                <li>Current BAS Agent Registration</li>
+                <li>Current Accounting Agent Registration</li>
                 <li>Accounting qualification - Degree, Diploma or minimum Certificate IV</li>
                 <li>Experience working with Xero, MYOB, Quickbooks and Saasu</li>
                 <li>Expert working with small businesses in different industries</li>

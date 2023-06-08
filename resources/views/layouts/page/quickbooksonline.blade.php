@@ -34,7 +34,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/first.png')}}" alt="">
                     <div class="down-content">
                         <h4>OUR QUICKBOOKS SERVICES</h4>
-                        <p>We provide everyday BAS and bookkeeping services for regular businesses using Intuit Quickbooks Online. Learn more about our services.</p>
+                        <p>We provide everyday Accounting and bookkeeping services for regular businesses using Intuit Quickbooks Online. Learn more about our services.</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal1">Read More</a>
                         </span>
@@ -120,9 +120,9 @@
                 </button>
             </div>
             <div class="modal-body">
-                <p>We are ready to assist with any Intuit Quickbooks Online bookkeeping problems or questions you may have, from basic data entry to BAS lodgement and complex management reports, we can assist. Let us help you stay tax office complaint and start gaining financial insight into your business.</p>
+                <p>We are ready to assist with any Intuit Quickbooks Online bookkeeping problems or questions you may have, from basic data entry to Accounting lodgement and complex management reports, we can assist. Let us help you stay tax office complaint and start gaining financial insight into your business.</p>
                 <p>Listed below are a few of the services we can help you with:</p>
-                <li>BAS and IAS</li>
+                <li>Accounting and IAS</li>
                 <li>General Bookkeeping</li>
                 <li>Data Entry</li>
                 <li>Accounting Software Set Up</li>
@@ -159,7 +159,7 @@
                 <li>Import your accounting data from other software to Quickbooks Online</li>
                 <li>Set up your new Quickbooks Online files suited for your business</li>
                 <li>Integrate with other business applications like online shopping carts</li>
-                <li>General day to day BAS and bookkeeping services using Quickbooks Online</li>
+                <li>General day to day Accounting and bookkeeping services using Quickbooks Online</li>
                 <li>Training and Tutorials to make you familiar with Quickbooks Online</li>
             </div>
         </div>
@@ -244,7 +244,7 @@
                 <p>Rest Easy With Our Certified Intuit Quickbooks Bookkeepers - We have a very strict criteria which we apply when it comes to hiring a Darcy Bookkeeping - bookkeeper. This ensures that we provide only the very best bookkeeping services to businesses who seek our bookkeeping assistance. A typical work history for our bookkeepers look similar to this:</p>
                  <br>
                 <li>10 years or more of accounting experience</li>
-                <li>Registered BAS Agent or qualified Accountant</li>
+                <li>Registered Accounting Agent or qualified Accountant</li>
                 <li>Tertiary Qualification with an Accounting Degree, Diploma or Certificate IV</li>
                 <li>Quickbooks Online Certified</li>
                 <li>Experience working in a number of different industries</li>

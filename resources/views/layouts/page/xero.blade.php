@@ -96,7 +96,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/sixth.png')}}" alt="">
                     <div class="down-content">
                         <h4>OUR XERO BOOKKEEPERS</h4>
-                        <p>All our bookkeepers are qualified BAS agents and Accountants. They have a wealth of experience dealing with Xero and small/medium businesses.</p>
+                        <p>All our bookkeepers are qualified Accounting agents and Accountants. They have a wealth of experience dealing with Xero and small/medium businesses.</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal6">Read More</a>
                         </span>
@@ -120,10 +120,10 @@
                 </button>
             </div>
             <div class="modal-body">
-                <p>No matter what your bookkeeping requirements are we can assist. Whether your behind in your bookkeeping and BAS lodgements, need regular ongoing bookkeeping or just needs some one off assistance we have a solution for you.</p>
+                <p>No matter what your bookkeeping requirements are we can assist. Whether your behind in your bookkeeping and Accounting lodgements, need regular ongoing bookkeeping or just needs some one off assistance we have a solution for you.</p>
                 <p>Some of the services we provide are:</p>
                 <br>
-                <li>BAS and IAS</li>
+                <li>Accounting and IAS</li>
                 <li>General Bookkeeping</li>
                 <li>Data Entry</li>
                 <li>Accounting Software Set Up</li>
@@ -197,7 +197,7 @@
                 <li>Certified Xero Specialists - Our Xero bookkeepers Brisbane, Xero bookkeepers Gold Coast, Xero bookkeepers Sunshine Coast, Xero bookkeepers Adelaide, Xero bookkeepers Perth and Xero bookkeepers Newcastle are certified by Xero which means we are specialists at using this software. Our bookkeepers stay up to date with new features of Xero as they are rolled out so we can take advantage of these new features to manage your bookkeeping as efficiently as possible</li>
                 <li>Understanding Each Individual Business - We understand that each of our clients are unique and as such partner one of our bookkeeping professionals to suit the individual business needs. We take into account the industry you operate in, current accounting software, location and specific requirements of the role you need to fill.</li>
                 <li>Our Vast Collective Knowledge - Because of the size of our firm and the experience and expertise of the people involved in our business we are often able to answer the difficult questions that our competitors cannot. And if we cannot give you the answer right away chances are we know where to find it.</li>
-                <li>Trusted Bookkeeping Professionals - Our bookkeepers are all Accountants or BAS Agent qualified so you know that a professional is managing your bookkeeping requirements. Our bookkeepers also bring with them many years accounting experience in a wide range of industries.</li>
+                <li>Trusted Bookkeeping Professionals - Our bookkeepers are all Accountants or Accounting Agent qualified so you know that a professional is managing your bookkeeping requirements. Our bookkeepers also bring with them many years accounting experience in a wide range of industries.</li>
             </div>
         </div>
     </div>
@@ -239,7 +239,7 @@
                 <p>We are strict with the standard of Bookkeepers that join our firm. The typical Xero bookkeeper at Darcy Bookkeeping would have a profile that would look something like this:</p>
                  <br>
                 <li>Generally 10 years or more accounting experience</li>
-                <li>Is a Registered BAS Agent or Accountant</li>
+                <li>Is a Registered Accounting Agent or Accountant</li>
                 <li>Tertiary Qualifications of either an Accounting Degree, Diploma or Certificate IV</li>
                 <li>Xero certified</li>
                 <li>Experience managing the bookkeeping needs for different businesses across different industries</li>

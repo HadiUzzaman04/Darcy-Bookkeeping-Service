@@ -34,7 +34,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/first.png')}}" alt="">
                     <div class="down-content">
                         <h4>OUR SAASU SERVICES</h4>
-                        <p>Get the Saasu bookkeeping services you need how and where you need it. From data entry through to BAS lodgement we do it all.</p>
+                        <p>Get the Saasu bookkeeping services you need how and where you need it. From data entry through to BAccountingAS lodgement we do it all.</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal1">Read More</a>
                         </span>
@@ -71,7 +71,7 @@
                     <img style="width: 80px; height: 80px; vertical-align: middle" src="{{asset('website/images/forth.JPG')}}" alt="">
                     <div class="down-content">
                         <h4>BOOKKEEPING GUARANTEE</h4>
-                        <p>Feel at ease knowing your Saasu bookkeeping is completed by BAS Agents and Accountants. All services are supported by our accounting services firm</p>
+                        <p>Feel at ease knowing your Saasu bookkeeping is completed by Accounting Agents and Accountants. All services are supported by our accounting services firm</p>
                         <span>
                             <a href="#" data-toggle="modal" data-target="#exampleModal4">Read More</a>
                         </span>
@@ -122,7 +122,7 @@
             <div class="modal-body">
                 <p>We are one of the largest Saasu bookkeeping service providers in Australia. We have a proven track record of delivering affordable bookkeeping solutions for our clients that work today, tomorrow and well into the future.</p>
                 <p>Some of our most popular services include:</p>
-                <li>BAS and IAS</li>
+                <li>Accounting and IAS</li>
                 <li>General Bookkeeping</li>
                 <li>Data Entry</li>
                 <li>Accounting Software Set Up</li>
@@ -153,7 +153,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <p>New to Saasu and not sure how to use it to its full potential? Need to have Saasu set up correctly for your business? Just want the bookkeeping and BAS done? WE can assist you with Saasu in the following ways:</p>
+                <p>New to Saasu and not sure how to use it to its full potential? Need to have Saasu set up correctly for your business? Just want the bookkeeping and Accounting done? WE can assist you with Saasu in the following ways:</p>
                 <br>
                 <li>We can transfer your current accounting information to a new Saasu file.</li>
                 <li>We can create and customise a new Saasu accounting file for new businesses.</li>
@@ -240,7 +240,7 @@
                 <p>Our bookkeeping team is the back bone of our business. We know that our services are only as good as the people we have, as such we are very picky about who joins our team. Below is a profile of one of our typical bookkeepers:</p>
                  <br>
                 <li>Highly experienced 10 years +</li>
-                <li>Accountant or Registered BAS Agent</li>
+                <li>Accountant or Registered Accounting Agent</li>
                 <li>Formal qualification - Degree, Diploma or Certificate IV in accounting</li>
                 <li>Experts in SAASU software</li>
                 <li>Strong track record working with small businesses</li>
